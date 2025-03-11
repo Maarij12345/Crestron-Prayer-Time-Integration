@@ -32,4 +32,7 @@ We use the Serial I/O symbol to send the api request and then individually parse
 Add the SIMPL+ Modules to the prayers that you want to receive the strings from
 ![image](https://github.com/user-attachments/assets/1fb4967e-67a0-4c29-ba23-ac7eea9cfe5b)
 
-
+## Part 2: Playing the Adhan
+You would need an oscillator so that everytime the digital output goes high(which is every second), the time match checker SIMPL+ would run
+![image](https://github.com/user-attachments/assets/411b7d26-2bb2-464c-b8a3-08f339de23e7)
+Because the prayer time 
