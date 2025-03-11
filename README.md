@@ -26,4 +26,10 @@ Host: www.islamicfinder.us
   "Isha": "09:00 PM"
 }
 ```
+We use the Serial I/O symbol to send the api request and then individually parse out the Prayer times. 
+![image](https://github.com/user-attachments/assets/ce972ffc-3895-4351-894c-d831bdea6388)
+
+Add the SIMPL+ Modules to the prayers that you want to receive the strings from
+![image](https://github.com/user-attachments/assets/1fb4967e-67a0-4c29-ba23-ac7eea9cfe5b)
+
 
